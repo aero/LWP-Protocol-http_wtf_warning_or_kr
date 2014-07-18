@@ -47,6 +47,9 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.001"
+   "version" : "0.001",
+   "x_contributors" : [
+      "aero <chahkang@gmail.com>"
+   ]
 }
 

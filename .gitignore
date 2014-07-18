@@ -1,0 +1,7 @@
+/LWP-Protocol-http_wtf_warning_or_kr-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove

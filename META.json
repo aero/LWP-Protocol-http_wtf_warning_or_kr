@@ -47,6 +47,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/aero/LWP-Protocol-http_wtf_warning_or_kr/issues"
+      },
+      "homepage" : "https://github.com/aero/LWP-Protocol-http_wtf_warning_or_kr",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/aero/LWP-Protocol-http_wtf_warning_or_kr.git",
+         "web" : "https://github.com/aero/LWP-Protocol-http_wtf_warning_or_kr"
+      }
+   },
    "version" : "0.001",
    "x_contributors" : [
       "aero <chahkang@gmail.com>"

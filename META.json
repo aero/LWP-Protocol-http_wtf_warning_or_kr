@@ -36,12 +36,12 @@
       },
       "runtime" : {
          "requires" : {
+            "LWP" : "0",
             "perl" : "5.008005"
          }
       },
       "test" : {
          "requires" : {
-            "LWP" : "0",
             "Test::More" : "0.96"
          }
       }
